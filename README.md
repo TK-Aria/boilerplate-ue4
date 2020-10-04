@@ -1,4 +1,4 @@
-# boilerplate-ue4
+# ue4-boilerplate
 boilerplate for unreal engine 4. 
 
 ## setup
