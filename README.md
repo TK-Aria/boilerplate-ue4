@@ -6,3 +6,7 @@ boilerplate for unreal engine 4.
 ```
 git lfs install
 ```
+
+```
+git lfs clone ${git_repository}
+```
