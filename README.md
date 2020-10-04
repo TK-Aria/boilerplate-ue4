@@ -18,3 +18,9 @@ clone
 ```
 git lfs clone ${git_repository_url}
 ```
+
+list
+
+```
+git lfs ls-files
+```
