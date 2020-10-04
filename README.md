@@ -24,3 +24,7 @@ list
 ```
 git lfs ls-files
 ```
+
+bp2cpp
+
+- https://docs.unrealengine.com/ja/Engine/Blueprints/TechnicalGuide/NativizingBlueprints/index.html
